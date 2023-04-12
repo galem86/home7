@@ -33,7 +33,7 @@ public class Main {
             int mons = summa / vasia;
             for (int t = 1; t <= mons; t++){
                 vasia += vasia * 0.07;{
-                    System.out.print("месяц" + t + " сумма" + vasia);
+                    System.out.print(" месяц" + t + " сумма" + vasia);
                 }
             }System.out.println("Задача 5");
         int vasiaw = 15000;
